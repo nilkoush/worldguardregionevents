@@ -1,6 +1,8 @@
 # WorldGuardRegionEvents
 Adds four events to extend WorldGuard regions functionality.
 
+> Rework of [WorldGuard-Region-Events](https://github.com/mewin/WorldGuard-Region-Events)
+
 ## API
 
 ### [Javadoc]()
